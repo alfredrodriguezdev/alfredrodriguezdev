@@ -1,16 +1,27 @@
-## Hi there 👋
+# Alfred Rodriguez
 
-<!--
-**alfredrodriguezdev/alfredrodriguezdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer focused on web applications, automation, and security-conscious development.
 
-Here are some ideas to get you started:
+Founder of **Next Step Software**, where I build practical digital solutions for small businesses and professionals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Focus
+
+- Full-stack web development
+- Business automation and internal tools
+- Secure application development
+- Building real-world software projects and client solutions
+
+## Currently Building
+
+**Next Step Software**  
+A software development and digital solutions business focused on websites, automation, and custom applications.
+
+🌐 https://nextstepsoftware.dev
+
+## Technologies
+
+I’m currently building with technologies across modern web development, databases, APIs, and application security.
+
+## Projects
+
+Projects and case studies coming soon.
